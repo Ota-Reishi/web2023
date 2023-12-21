@@ -57,7 +57,7 @@ h2::before {
   left: 0.4em;
   font-weight: bold;
   font-family: "Font Awesome 6 Free";
-  content: "\f5ad";
+  content: "\f183";
   top: 0.2em;
   font-size: 85%;
   color: var(--theme-color-2);
@@ -112,5 +112,5 @@ ul li::before {
   font-size: 75%;
   font-family: "Font Awesome 6 Free";
   font-weight: bold;
-  content: "\f816";
+  content: "\f02e";
 }
